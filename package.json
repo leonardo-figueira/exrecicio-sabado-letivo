@@ -1,0 +1,23 @@
+{
+  "name": "exrecicio-sabado-letivo",
+  "version": "1.0.0",
+  "description": "Aula lecionada no sábado letivo",
+  "homepage": "https://github.com/leonardo-figueira/exrecicio-sabado-letivo#readme",
+  "bugs": {
+    "url": "https://github.com/leonardo-figueira/exrecicio-sabado-letivo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonardo-figueira/exrecicio-sabado-letivo.git"
+  },
+  "license": "ISC",
+  "author": "Leonardo Vicente Figueira",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
